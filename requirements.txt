@@ -7,3 +7,4 @@ joblib
 streamlit
 nltk
 wordcloud
+altair<5.0.0
